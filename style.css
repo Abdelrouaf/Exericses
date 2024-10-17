@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    background-color: #f6f6f6;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+    color: lightcoral;
+    font-weight: 900;
+}
+
+#output {
+    margin: 15px;
+
+    h4 {
+        background-color: cadetblue;
+        padding: 20px;
+        text-transform: capitalize;
+    }
+
+    h2 {
+        background-color: bisque;
+        padding: 20px;
+    }
+}
